@@ -16,9 +16,11 @@
 
 ## 🎯 Neden TuAnalytics?
 
-💡 **Kendi yüz tanıma sistemini mi yazmak istiyorsun?**  
+💡 **Güvenliğinizi artırmak için yüz tanıma teknolojisi kullanmak mı istiyorsunuz?**
 💡 **Arduino ile Python'u bir araya getirip mini bir geçiş sistemi mi kurmak istiyorsun?**  
-💡 **Gerçek zamanlı bir proje ile CV'ni güçlendirmek mi istiyorsun?**
+💡 **Kendi yüz tanıma sistemini mi yazmak istiyorsun?**  
+
+
 
 O zaman doğru yerdesin 🙌
 
