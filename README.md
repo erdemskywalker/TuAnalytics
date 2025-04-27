@@ -32,7 +32,6 @@ O zaman doğru yerdesin 🙌
 ✅ `DeepFace` – Yüz tanıma ve karşılaştırma için  
 ✅ `Serial` – Arduino ile haberleşmek için  
 ✅ `SQLite` – Kişileri saklamak için  
-✅ `JSON` – Girişleri loglamak için
 
 ---
 
