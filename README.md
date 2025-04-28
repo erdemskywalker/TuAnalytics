@@ -31,7 +31,7 @@ O zaman doğru yerdesin 🙌
 ✅ `OpenCV` – Kamera görüntüsünü almak ve göstermek için  
 ✅ `DeepFace` – Yüz tanıma ve karşılaştırma için  
 ✅ `Serial` – Arduino ile haberleşmek için  
-✅ `SQLite` – Kişileri saklamak için  
+✅ `SQL` – Kişileri saklamak için  
 
 ---
 
