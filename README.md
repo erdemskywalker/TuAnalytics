@@ -2,7 +2,7 @@
 
 <p align="center">
   Yüz tanıma destekli geçiş sistemi<br>
-  <strong>Python + OpenCV + DeepFace + Arduino + SQLite</strong>
+  <strong>Python + OpenCV + DeepFace + Arduino + SQL</strong>
 </p>
 
 <p align="center">
