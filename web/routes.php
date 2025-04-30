@@ -5,20 +5,25 @@ session_start();
 $template = new TemplateEngine(__DIR__ . '/views');
 
 $routes = [
-    '' => 'index',
-    'persons'=>'persons',
+    ''=>'persons',
     'addperson'=>'addperson',
-    'logs'=>'logs'
+    'logs'=>'logs',
+    'person/{id}'=>'person',
+    'person'=>'a'
 ];
 
-
-function index() {
-    global $template;
-    echo $template->render('index');
+function a() {
+    header("location:../");
 }
+
 function persons() {
     global $template;
     echo $template->render('persons');
+}
+
+function person($id) {
+    global $template;
+    echo $template->render('person',$data=[$id]);
 }
 
 function addperson() {

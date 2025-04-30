@@ -30,7 +30,7 @@ if ($_POST) {
     }
 }
 
-header("location:persons")
+header("location:./")
 
 
 

@@ -61,7 +61,7 @@ cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480) 
 frame_skip = 5 
 frame_count = 0
-
+print("Tarama Başladı")
 while True:
     ret, frame = cap.read()
     frame_count += 1
